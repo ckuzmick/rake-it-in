@@ -10,7 +10,7 @@ export default function Home() {
         <p>Need leaves raked?</p>
         <p>Need plants watered?</p>
         <p>Need lawn mowing?</p>
-        <p>Need pets to be taken care of?</p>
+        <p>Need petss to be taken care of?</p>
         <p>Have any odd jobs that need to be done?</p>
         <br/>
         <p>Then the Rake It In crew is here to help!</p>
