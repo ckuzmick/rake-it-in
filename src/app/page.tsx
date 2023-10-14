@@ -1,11 +1,13 @@
 import Image from 'next/image'
-import Bar from "../components/bar.js"
+import Bar from "../components/bar"
+import AnnouncementBanner from '@/components/announcement-banner'
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
+    <main className="">
+      <AnnouncementBanner txt="We're open for the season now!"/>
       <Bar/>
-      <div className="z-10 max-w-5xl w-full items-center justify-between font-mono text-sm lg:flex">
+      <div className="">
         <h1 className="text-2xl pb-10">Rake It In</h1>
         <p>Need leaves raked?</p>
         <p>Need plants watered?</p>
