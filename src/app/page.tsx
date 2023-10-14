@@ -13,7 +13,7 @@ export default function Home() {
             <div className='sm:h-64 xs:h-0 max-w-full bg-orange-500 rounded-lg col-start-1 sm:mb-5 xs:mb-0'></div>
             <div className='sm:h-96 xs:h-0 max-w-full bg-red-700 rounded-lg col-start-1'></div>
           </div>
-          <div className='bg-slate-200 rounded-lg'>
+          <div className='bg-slate-200 rounded-lg text-center>
             <h1 className='text-2xl font-bold m-10 col-start-2 col-span-2 row-start-1'>Need Leaves Raked?</h1>
             <h2 className='font-semibold mx-10 mb-5text-lg'>The Rake It In crew is here to help!</h2>
             <br/>
