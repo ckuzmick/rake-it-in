@@ -15,6 +15,8 @@ export default function Home() {
           </div>
           <div className='bg-slate-200 rounded-lg'>
             <h1 className='text-2xl font-bold m-10 col-start-2 col-span-1 row-start-1'>Need Leaves Raked?</h1>
+            <h2>The Rake It In crew is here to help!</h2>
+            <h2>We can rake houses anywhere in the greater Cambridge area, from Someriville to Central Square!</h2>
           </div>
           <div>
             <div className='max-w-full sm:h-96 xs:h-0 bg-red-700 rounded-lg col-start-3 sm:mb-5 xs:mb-0'></div>
