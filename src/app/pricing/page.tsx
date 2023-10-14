@@ -10,6 +10,7 @@ export default function Home() {
       <Bar/>
       <div className="">
         <Heading header="Pricing" subtitle="Of Our Services"/>
+        <h2 className='p-10'>Note: All prices are subject to negotiation</h2>
       </div>
     </main>
   )
