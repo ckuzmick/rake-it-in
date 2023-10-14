@@ -25,9 +25,3 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
-
-AnnouncementBanner {
-  "@media screen and (min-width: 500px)": {
-    justifyContent: "space-between"
-  }
-}
