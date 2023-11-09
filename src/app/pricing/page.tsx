@@ -5,7 +5,7 @@ import Heading from '@/components/heading'
 
 export default function Home() {
   return (
-    <main className="">
+    <main>
       <AnnouncementBanner txt="We're open for the season now!"/>
       <Bar/>
       <div className="">
