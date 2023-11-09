@@ -17,7 +17,7 @@ export default function Home() {
           <li>Pet Sitting</li>
           <li>Watering Plants</li>
         </ul>
-        <h1 className="p-10">If you need something else besides these, then email us at griffin@rakeitin.info</h1>
+        <h1 className="p-10">If you need something else besides these, then email us at griffin&apos;rakeitin.info</h1>
       </div>
     </main>
   )

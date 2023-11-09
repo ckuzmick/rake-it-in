@@ -15,7 +15,7 @@ export default function Home() {
           <li>Raking leaves is priced at 8 dollars per yard work bag</li>
           <li>Pet sitting prices are negotiable depending on what the extent of the services are</li>
         </ul>
-        <h2 className="p-10">We haven't began to offer any more services, email us with whatever you need at griffin@rakeitin.info and we'll get back to you!</h2>
+        <h2 className="p-10">We haven't began to offer any more services, email us with whatever you need at griffin&apos;rakeitin.info and we'll get back to you!</h2>
       </div>
     </main>
   )
